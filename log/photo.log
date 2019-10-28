@@ -1,0 +1,56 @@
+
+***************** photo.sh [2016-02-08 21:29:24] *****************
+[+] Creating HTML page
+[+] Processing images
+from: images/italy/14824.jpg to: html/img/italy/italy_1.jpg
+from: images/italy/22203.jpg to: html/img/italy/italy_2.jpg
+from: images/italy/7448.jpg to: html/img/italy/italy_3.jpg
+from: images/argentina/4749.jpg to: html/img/argentina/argentina_1.jpg
+from: images/argentina/8128.jpg to: html/img/argentina/argentina_2.jpg
+from: images/israel/20258.jpg to: html/img/israel/israel_1.jpg
+from: images/israel/22750.jpg to: html/img/israel/israel_2.jpg
+from: images/israel/22892.jpg to: html/img/israel/israel_3.jpg
+from: images/israel/31400.jpg to: html/img/israel/israel_4.jpg
+[+] Finishing HTML page
+[+] Creating deploy package
+photo/
+photo/photographer.css
+photo/photographer.js
+photo/shadowbox.css
+photo/close.png
+photo/bootstrap.js
+photo/photo_1.html
+photo/bg.jpg
+photo/jquery.quicksand.js
+photo/fontawesome-webfont.svg
+photo/index.html
+photo/photo_2.html
+photo/fontawesome-webfont.eot
+photo/fontawesome-webfont.ttf
+photo/previous.png
+photo/photo.html
+photo/img/
+photo/img/italy/
+photo/img/italy/italy_3.jpg
+photo/img/italy/italy_1.jpg
+photo/img/italy/italy_2.jpg
+photo/img/argentina/
+photo/img/argentina/argentina_1.jpg
+photo/img/argentina/argentina_2.jpg
+photo/img/israel/
+photo/img/israel/israel_3.jpg
+photo/img/israel/israel_1.jpg
+photo/img/israel/israel_4.jpg
+photo/img/israel/israel_2.jpg
+photo/fontawesome-webfont.woff
+photo/bootstrap.css
+photo/headerbg.jpg
+photo/font-awesome.css
+photo/shadowbox.js
+photo/jquery.easing.js
+photo/pause.png
+photo/next.png
+photo/fontawesome-webfont.eot?
+photo/play.png
+[+] Statistics: Files = 9 | Size = 7.4M
+***************** photo.sh [2016-02-08 21:29:30] *****************
