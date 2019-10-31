@@ -15,4 +15,4 @@ It's currently being presented as **travel**, but it could be used for any other
 ![alt text](demo/home.png "Home page")\
 ![alt text](demo/filter_italy.png "Filtering")\
 ![alt text](demo/view.png "Full")\
-![alt text](demo/log.png "Log")\
+![alt text](demo/log.png "Log")
